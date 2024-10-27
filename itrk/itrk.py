@@ -17,11 +17,11 @@ from io import StringIO
 from logging.handlers import TimedRotatingFileHandler
 from typing import Any, Callable, Dict, List, Mapping
 
-import lorem
+# import lorem
 import pyperclip
 import transaction
-import ZODB
-import ZODB.FileStorage
+# import ZODB
+# import ZODB.FileStorage
 from dateutil.parser import parse, parserinfo
 from lorem.text import TextLorem
 from persistent import Persistent
