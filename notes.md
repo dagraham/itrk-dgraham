@@ -1,6 +1,6 @@
 # Ideas
 
-## Views 
+##Views 
 
 ### Main
 
